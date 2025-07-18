@@ -6,3 +6,13 @@ form {
   text-align: center;
   color: azure;
 }
+div {
+  max-width: 600px;
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgba(0, 0, 255, 0.541);
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
