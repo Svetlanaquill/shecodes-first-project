@@ -6,18 +6,14 @@ form {
   text-align: center;
   color: azure;
 }
-div {
+
+.intro {
   max-width: 600px;
   font-size: 14px;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   color: rgba(2, 2, 49, 0.144);
   text-align: center;
   margin: 0 auto;
   margin-top: 10px;
   margin-bottom: 20px;
-}
-.intro {
-  max-width: 600px;
-  font-size: 14px;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
