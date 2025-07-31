@@ -1,6 +1,6 @@
 h1 {
   text-align: center;
-  color: blueviolet;
+  color: rgb(125, 2, 240);
 }
 form {
   text-align: center;
@@ -10,8 +10,8 @@ form {
 .intro {
   max-width: 600px;
   font-size: 14px;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  color: rgba(2, 2, 49, 0.144);
+  font-family: "Courier New", Courier, monospace;
+  color: rgba(2, 2, 27, 0.144);
   text-align: center;
   margin: 0 auto;
   margin-top: 10px;
